@@ -1,3 +1,17 @@
+<h1>Computer Vision Mini Projects </h1>
+<h4>Requirements :</h4>
+Python3<br>
+Opencv<br>
+NumPy<br>
+Matplotlib<br>
+IpWebcam App in Android (if using mobile camera : for better image quality)<br>
+
+<h4>Instructions :</h4>
+Set up Ipwebcam in Android and access mobile camera in Pc's Browser at an Ip. <br>
+Use that Ip in Pythonic way to access camera as input in programs. <br>
+Refer scripts above that use Ipwebcam<br>
+
+
 Files:
 
 1. counting_objects.py
@@ -21,3 +35,6 @@ Using this perfect combination we can approach towards accuracy of counting obje
 --Demo Video Link
 
 https://www.youtube.com/watch?v=qjjtjq6k2Is
+
+<br>
+<h6>Other files are self explainatory. </h6>
