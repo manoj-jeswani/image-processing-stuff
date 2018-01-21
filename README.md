@@ -10,8 +10,8 @@ IpWebcam App in Android (if using mobile camera : for better image quality)<br>
 Set up Ipwebcam in Android and access mobile camera in Pc's Browser at an Ip. <br>
 Use that Ip in Pythonic way to access camera as input in programs. <br>
 Refer scripts above that use Ipwebcam<br>
-
-
+<hr>
+<br>
 Files:
 
 1. counting_objects.py
